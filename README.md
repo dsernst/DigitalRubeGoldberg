@@ -12,3 +12,4 @@ Final: takes data[final -1] ---> prints "HELLO WORLD!"
 
 Just specify what input your part in the chain will need. We'll assign you the next person and what input they're expecting.
 
+[Open an issue to join in!](https://github.com/dsernst/DigitalRubeGoldberg/issues/new)
